@@ -1,0 +1,53 @@
+.bold {
+    font-size: 50px;
+}
+ul {
+    font-style: italic;
+}
+
+.header {
+    text-align: center;
+    background-color: rgb(197, 195, 195);
+    padding: 50px;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.video {
+    text-align: center;
+}
+.videospecific {
+    padding: 5px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: black;
+    border-style: outset;
+}
+
+.font-arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content {
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: justify;
+    background-color: rgb(225, 224, 224);
+}
+.images {
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+/* .flexcontent {
+    display: flex;
+    flex-direction: column;
+    
+    
+
+} */
